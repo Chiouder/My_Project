@@ -1,5 +1,4 @@
-![Cover Photo](https://github.com/Chiouder/My_Project/blob/main/IMG_0492.jpeg)
-<img src="https://github.com/Chiouder/My_Project/blob/main/IMG_0492.jpeg" alt="Cover Photo" width="800"/>
+<img src="https://github.com/Chiouder/My_Project/blob/main/GitHub_Cover.jpeg" alt="Cover Photo" width="800"/>
 
 
 # Hi, I'm Jordan Chiou 👋
