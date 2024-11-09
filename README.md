@@ -7,7 +7,7 @@ I'm a Master of IT student at RMIT, embarking on a journey to build my career in
 ## Education
 
 **RMIT University**  
-Master’s Degree in Information Technology  
+Master’s Degree in Information Technology | GPA: 4.0
 _February 2024 – Present_
 
 **National Cheng Kung University**  
