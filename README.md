@@ -1,13 +1,13 @@
 # Hi, I'm Jordan Chiou 👋
 
-I'm a Master of IT student at RMIT, embarking on a journey to build my career in cloud computing starting this summer. This GitHub page is where I document and share my learning journey in IT. I'll be continuously learning and refining my skills, and I appreciate any feedback from visitors. Thanks for stopping by!
+I'm a Master of IT student at RMIT, starting my journey toward a career in cloud computing this summer. This GitHub page is where I document and share milestones in my IT learning journey. I’m continuously refining my skills and enhancing this page, so any feedback from visitors is highly appreciated. Thanks for stopping by!
 
 ---
 
 ## Education
 
 **RMIT University**  
-Master’s Degree in Information Technology | GPA: 4.0
+Master’s Degree in Information Technology | GPA: 4.0  
 _February 2024 – Present_
 
 **National Cheng Kung University**  
@@ -22,10 +22,20 @@ _2018 – 2022_
 RMIT Education Portfolio  
 _July 2024 – Present_
 
+- Provided support to students with technical or process-related issues, helping them navigate campus resources.
+- Assisted with library administrative tasks, including shelving books, handling pick-up requests, scanning documents, and managing printing inquiries.
+
 **Student Connect Concierge**  
 RMIT Education Portfolio  
 _June 2024 – Present_
 
+- Offered peer-to-peer support on campus, helping students access resources and direct inquiries to relevant departments.
+- Served as the first point of contact at RMIT, delivering efficient and courteous service to enhance the student experience.
+
 **Visual Designer**  
 JIN LIN Educational Institute  
 _September 2023 – February 2024_
+
+- Redesigned promotional materials for the tutoring center, strengthening brand recognition.
+- Created holiday event posters that boosted new student enrollments by approximately 20%.
+- Revamped textbooks with a distinctive brand style, inspiring similar updates in other tutoring centers.
