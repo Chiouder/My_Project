@@ -1,3 +1,7 @@
+![Cover Photo](https://github.com/Chiouder/My_Project/blob/main/IMG_0492.jpeg)
+<img src="https://github.com/Chiouder/My_Project/blob/main/IMG_0492.jpeg" alt="Cover Photo" width="800"/>
+
+
 # Hi, I'm Jordan Chiou 👋
 
 I'm a Master of IT student at RMIT, starting my journey toward a career in cloud computing this summer. This GitHub page is where I document and share milestones in my IT learning journey. I’m continuously refining my skills and enhancing this page, so any feedback from visitors is highly appreciated. Thanks for stopping by!
