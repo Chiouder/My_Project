@@ -42,3 +42,13 @@ _September 2023 – February 2024_
 - Redesigned promotional materials for the tutoring center, strengthening brand recognition.
 - Created holiday event posters that boosted new student enrollments by approximately 20%.
 - Revamped textbooks with a distinctive brand style, inspiring similar updates in other tutoring centers.
+
+---
+
+## Interests
+
+- I love to travel. Although I’m still a student, I hope to one day explore various countries and experience the world through my own eyes ✈️🚞
+- I’m also passionate about music. I play the cello and enjoy a wide range of genres, including K-pop, J-pop, and instrumental music 🎶🎶
+- I enjoy dancing—not professionally, but who doesn’t love moving to the rhythm of a great song 🕺🕺
+- I appreciate art exhibitions and love observing how different artists view the world through their unique perspectives. I’m often deeply moved by an amazing show or exhibition.
+
